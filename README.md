@@ -1,5 +1,7 @@
-### Shan👋
+### I'm MAKEYOURWON
 
+- 🔭 I’m currently learning in GA and working on my own portfolios
+  
 <!--
 **makeyourwon/makeyourwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
